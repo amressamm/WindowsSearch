@@ -1,0 +1,9 @@
+C:\Source\Workspaces\ch2\WindowsSearchApplication\WindowsSearchApplication\bin\Release\WindowsSearchApplication.exe.config
+C:\Source\Workspaces\ch2\WindowsSearchApplication\WindowsSearchApplication\bin\Release\WindowsSearchApplication.exe
+C:\Source\Workspaces\ch2\WindowsSearchApplication\WindowsSearchApplication\bin\Release\WindowsSearchApplication.pdb
+C:\Source\Workspaces\ch2\WindowsSearchApplication\WindowsSearchApplication\obj\Release\WindowsSearchApplication.csprojResolveAssemblyReference.cache
+C:\Source\Workspaces\ch2\WindowsSearchApplication\WindowsSearchApplication\obj\Release\WindowsSearchApplication.Form1.resources
+C:\Source\Workspaces\ch2\WindowsSearchApplication\WindowsSearchApplication\obj\Release\WindowsSearchApplication.Properties.Resources.resources
+C:\Source\Workspaces\ch2\WindowsSearchApplication\WindowsSearchApplication\obj\Release\WindowsSearchApplication.csproj.GenerateResource.Cache
+C:\Source\Workspaces\ch2\WindowsSearchApplication\WindowsSearchApplication\obj\Release\WindowsSearchApplication.exe
+C:\Source\Workspaces\ch2\WindowsSearchApplication\WindowsSearchApplication\obj\Release\WindowsSearchApplication.pdb
